@@ -4,5 +4,8 @@ node_modules/
 *.log
 .DS_Store
 .idea/
-vscode/
+.vscode/
 test-results/
+credentials/
+*.pem
+*.key
